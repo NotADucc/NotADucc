@@ -11,7 +11,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=notaducc&show_icons=true" height="192px"/>
 </picture>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=notaducc&hide=jupyter%20notebook,css&size_weight=0.5&langs_count=8&count_weight=0.5&layout=compact&theme=omni&border_color=404040&bg_color=101010&number_format#gh-dark-mode-only"><img alt="NotADucc's Top Languages (refresh)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notaducc&hide=jupyter%20notebook,css&size_weight=0.5&langs_count=8&count_weight=0.5&layout=compact&theme=omni&border_color=404040&bg_color=101010&number_format#gh-dark-mode-only" height="192px"/></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=notaducc&hide=jupyter%20notebook,css&size_weight=0.5&langs_count=8&count_weight=0.5&layout=compact&theme=omni&border_color=404040&bg_color=101010&number_format#gh-dark-mode-only"><img alt="NotADucc's Top Languages (refresh)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notaducc&hide=jupyter%20notebook,css&size_weight=0.5&langs_count=8&count_weight=0.5&layout=compact&theme=omni&border_color=404040&bg_color=101010&number_format#gh-dark-mode-only?" height="192px"/></a>
 
 
 # Me
